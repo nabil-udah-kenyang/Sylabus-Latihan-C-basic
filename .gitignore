@@ -1,0 +1,12 @@
+# File hasil compile Windows
+*.exe
+
+# File object / binary C++
+*.o
+*.obj
+*.out
+
+# File sementara VS Code
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+.vscode/
